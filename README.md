@@ -1,3 +1,3 @@
-# maven-project webhook demo
+# maven-project webhook demo for team
 
 Simple Maven Project
